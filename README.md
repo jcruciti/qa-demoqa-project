@@ -33,6 +33,9 @@ The goal of this project is to demonstrate practical QA skills, including:
 - GitHub (documentation & version control)
 
 ---
+
+## 📁 Project Structure
+
 qa-demoqa-project/
 │
 ├── test-cases/
@@ -116,7 +119,3 @@ The DemoQA website is used as a practice environment and may not reflect real pr
 Joe Cruciti 
 https://www.linkedin.com/in/joecruciti
 
-
-
-
-## 📁 Project Structure
