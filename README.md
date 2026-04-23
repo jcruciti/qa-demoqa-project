@@ -35,7 +35,7 @@ The goal of this project is to demonstrate practical QA skills, including:
 ---
 
 ## 📁 Project Structure
-
+<code>
 qa-demoqa-project/
 │
 ├── test-cases/
@@ -43,7 +43,7 @@ qa-demoqa-project/
 ├── test-plan/
 ├── evidence/
 └── README.md
-
+</code>
 
 ---
 
